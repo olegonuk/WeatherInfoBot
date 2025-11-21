@@ -28,7 +28,7 @@
 ### 1️⃣ Клонування репозиторію
 
 ``` bash
-git clone https://github.com/yourusername/WeatherBot.git
+git@github.com:olegonuk/WeatherInfoBot.git
 cd WeatherBot
 ```
 
